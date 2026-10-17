@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I am Matthias 👋</h1>
-
-<h3 align="center"><em><strong>"Turning technology into business impact"</strong></em></h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FEB,100:0A2E6E&height=220&section=header&text=Hi,+I+am+Matthias+👋&fontSize=40&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Turning+technology+into+business+impact&descAlignY=58&descSize=20&descColor=ffffff" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1E6FEB&center=true&vCenter=true&width=600&lines=Hello!+Welcome+to+my+GitHub;Building+things%2C+one+line+at+a+time;Powered+by+coffee+and+bananas+%F0%9F%8D%8C" alt="Typing SVG" />
