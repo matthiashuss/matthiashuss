@@ -47,7 +47,7 @@
 
   <!-- Text -->
   <g font-family="'Trebuchet MS', Verdana, sans-serif">
-    <text x="280" y="95" font-size="34" font-weight="bold" fill="#0A2E6E" opacity="0">Hi, I'm Matthias Huss
+    <text x="280" y="95" font-size="34" font-weight="bold" fill="#0A2E6E" opacity="0">Hi, I am Matthias
       <animate attributeName="opacity" from="0" to="1" dur="1s" begin="0.2s" fill="freeze"/>
     </text>
     <text x="280" y="150" font-size="24" font-style="italic" font-weight="bold" fill="#0A2E6E" opacity="0">"Turning technology into business impact"
