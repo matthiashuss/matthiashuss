@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1E6FEB&center=true&vCenter=true&width=600&lines=Hello!+Welcome+to+my+GitHub...;Shipping+impact%2C+not+just+code!;Powered+by+coffee+and+bananas+%F0%9F%8D%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1E6FEB&center=true&vCenter=true&width=600&lines=Hello!+Welcome+to+my+GitHub...;Powered+by+coffee+and+bananas+%F0%9F%8D%8C" alt="Typing SVG" />
 </p>
 
 <p align="center">
